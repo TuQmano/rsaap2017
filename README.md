@@ -37,7 +37,7 @@ Scripts:
 Extras:
 * `mesas.json`          JSON con mesas por municipio, producido por el scrapper
 * `resultados.json`     JSON con resultados por mesa, producido por el scrapper
-* `tabula.csv`          Tabla con electores por circuito, producida por TabulaPDF
+* `tabula.csv`          Tabla con electores por circuito, producida por [TabulaPDF](https://github.com/tabulapdf)
 * `resultados_agregados.json` JSON con resultados por circuito; incluye turnout
 * `modelo.stan`        Código Stan del modelo mixto usado para la simulación
 
