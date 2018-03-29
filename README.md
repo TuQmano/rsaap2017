@@ -1,4 +1,4 @@
-Replication data for Dodyk, J. and Ruiz Nicolini, J. P. (2017). ["Enchufes, espejos y tijeras"](http://revista.saap.org.ar/contenido/revista-saap-v11-n2/saap-11-2-dodyk.pdf), *Revista SAAP*, Vol. 11, Nº 2, 365-386.
+Replication data for Dodyk, J. and Ruiz Nicolini, J. P. (2017). ["Enchufes, espejos y tijeras"](https://www.researchgate.net/publication/322663247_Enchufes_espejos_y_tijeras_efectos_del_diseno_de_las_boletas_sobre_el_comportamiento_electoral_Plugs_mirrors_and_scissors_Ballot_design_effects_on_electoral_behavior), *Revista SAAP*, Vol. 11, Nº 2, 365-386.
 
 # Corrientes
 
